@@ -1,0 +1,10 @@
+{
+    "name" : "Full Color Cameras",
+    "description" : "This mod enable full color in cameras",
+    "author" : "MdZ",
+    "contact" : "steamcommunity.com/id/M3ND3Z",
+    "version" : "1.1",
+    "blt_version": 2,
+    "priority" : 10,
+    "image": "cctv.png"
+}

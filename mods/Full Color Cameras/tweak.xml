@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="core/shaders/post_processor" extension="post_processor">
+		<search>
+			<?xml version="1.0" encoding="utf-8" ?>
+			<post_processor/>
+			<effect name="color_sin"/>
+			<defined platform="PS3 X360"/>
+			<combiner diffuse_texture="bb" render_template="post_color_grading:CAMERA"/>
+		</search>
+		<target mode="replace"/>
+	</tweak>
+</tweaks>
