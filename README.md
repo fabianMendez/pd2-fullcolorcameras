@@ -1,3 +1,7 @@
+## Full Color Cameras
+
+![Cover](cover.jpg)
+
 This mod  enable full color in cameras.
 
 Instructions:
