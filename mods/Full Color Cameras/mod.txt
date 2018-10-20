@@ -3,8 +3,9 @@
     "description" : "This mod enable full color in cameras",
     "author" : "MdZ",
     "contact" : "steamcommunity.com/id/M3ND3Z",
-    "version" : "1.1",
+    "version" : "1.2",
     "blt_version": 2,
     "priority" : 10,
-    "image": "cctv.png"
+    "image": "cctv.png",
+    "hooks": [{ "hook_id": "lib/managers/hud/hudaccesscamera", "script_path" : "hook_hudaccesscamera.lua"}]
 }
